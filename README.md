@@ -2,7 +2,7 @@
 
 ![Python 3.9.7](https://img.shields.io/badge/python-3.9.7-green.svg?style=plastic) ![scikit-learn 1.2.2](https://img.shields.io/badge/scikit--learn-1.2.2-green)
 
-The code for reproducing the experimental results of the paper: "[SRPM-ST: Sequential Retraining and Pseudo-labeling in Mini-batches for Self-Training](https://)".
+The code for reproducing the experimental results of the paper: "[SRPM-ST: Sequential Retraining and Pseudo-labeling in Mini-batches for Self-Training]".
 
 ## Requirements
 
