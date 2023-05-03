@@ -29,3 +29,9 @@ Models: LDA, LRR, LSVM
 ```shell
 python main.py --data mnist --model LDA --training_size 0.01 --test_size 0.1 --Is 0,1,2,3,4,5,6 --output result.png --njobs 1
 ```
+
+## Results with std.
+
+The results with std. can be found in the file " Figure_with_std.pdf "
+
+https://github.com/PapersSourceCode/SRPM-ST/blob/main/Figure_with_std.pdf
